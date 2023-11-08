@@ -1,13 +1,13 @@
 # Insurance Premium Prediction
 
 ## Problem Statement :
-The goal of this project to give people an estimate of how much they need based on their individual health situation. After that, customers can work with any health insurance carrier and its plans and perks whilwe keeping the projected cost from our study in mind. This can assist a person in concentrating on the health side of an insurance policy rather than the ineffective part.
+This project's all about figuring out what you're likely to pay for health insurance, based on your own health situation. Once you've got that estimate, you can go ahead and pick any health insurance company you like, and choose from the plans they've got, with our cost prediction in your back pocket. It's a way to help you focus on the health coverage you need and skip over the stuff that doesn't do much for you.
 
 ## Dataset :
 The dataset is taken from a Kaggle. You can download the dataset from [here](https://www.kaggle.com/noordeen/insurance-premium-prediction)
 
 ## Approach :
-Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and model testing to build a solution that should able to predict the premium of the personal for health insurance.
+So, we're using a bunch of cool machine learning techniques to solve a problem. We'll start by digging into the data, cleaning it up, picking out the important bits, and then actually building a model. Once that's done, we'll test it to make sure it works right. The end goal is to create something that can guess how much you'll have to pay for your health insurance premium.
 
 - **Data Exploration :** Exploring the dataset using pandas, numpy, matplotlib, plotly and seaborn.
 - **Exploratory Data Analysis :** Plotted different graphs to get more insights about dependent and independent variables/features.
