@@ -32,8 +32,6 @@ https://insurance-premium-prediction1.herokuapp.com/
 ![alt text](https://github.com/nikhilpatil44/insurance-premium-prediction/blob/main/images/webapp%20interface-2.png)
 
 
-![alt text](https://github.com/nikhilpatil44/insurance-premium-prediction/blob/main/images/webapp%20interface-1%20.png)
-
 
 ## Libraries used :
     1) Pandas
